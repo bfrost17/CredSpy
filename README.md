@@ -1,4 +1,4 @@
-# Fraud Detection Model
+# CredSpy - Fraud Detection Model
 
 ## Project Overview
 This project focuses on building a **fraud detection model** using machine learning algorithms to identify fraudulent transactions effectively. The goal was to improve the model’s precision and accuracy while reducing false positives and false negatives.
